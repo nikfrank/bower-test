@@ -1,0 +1,23 @@
+{
+  "name": "test-component",
+  "version": "0.0.0",
+  "authors": [
+    "nik frank <nikbfrank@gmail.com>"
+  ],
+  "description": "a test component",
+  "main": "main.js",
+  "keywords": [
+    "angular",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "nikfrank.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
